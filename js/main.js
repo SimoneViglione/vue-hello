@@ -6,7 +6,7 @@ createApp({
   data() {
     return {
       titolo: header,
-      imageSrc: 'https://images.unsplash.com/photo-1678750264116-4d1074c2921c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80'
+      imageSrc: 'https://images.unsplash.com/photo-1569081156361-c98e05e7f1e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80'
     }
   }
 }).mount('#app')
